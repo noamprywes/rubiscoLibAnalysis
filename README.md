@@ -8,7 +8,7 @@ These filed include:<br>
 How the library oligos were generated (NP-11-2) <br>
 How the original sequencing data is being analyzed (NP-11-19)<br>
 How mock data is generated (NP-11-21)<br>
-How PacBio data was organized and analyzed (NP-11-25)<br>
+How PacBio data was organized and analyzed (NP-11-25 two files)<br>
 How the original selection data was analyzed (NP-11-27)<br>
 How outgrowth skew is measured (NP-11-29)<br>
 How library quality is assessed (NP-11-30)<br>
