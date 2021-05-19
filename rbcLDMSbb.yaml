@@ -1,0 +1,19 @@
+NP_11_21_1: &rbcL_target_parse_specs
+  query_clip5: null
+  query_clip3: null
+  backbone:
+    return: [mutations, accuracy]
+    filter:
+      mutation_nt_count: null
+      mutation_op_count: null
+      clip5: null
+      clip3: null
+  gene:
+    filter:
+      mutation_nt_count: null
+      mutation_op_count: null
+      clip5: null
+      clip3: null
+    return: [mutations, accuracy]
+  Barcode:
+    return: sequence
